@@ -1,5 +1,8 @@
 #A series of exercises for HTML/CSS
 
+##0. HTMLExercises
+    Keep writing every day, no matter how it is simple.
+
 ##1. 3DButtons
     Buttons with 3D effect by using ul>li.
 
@@ -11,3 +14,4 @@
 
 ##4. ButtonStyle
     实现一个浮动效果的按钮。
+
