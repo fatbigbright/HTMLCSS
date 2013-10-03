@@ -124,6 +124,7 @@
 <body>
     <h1>20131003</h1>
     <p>Demo for a form, with no post action yet.</p>
+    <p>Notes: radio buttons with the same name will be exclusive to each other.</p>
     <form action="" method="post">
         <p class="legend">Personal Information</p>
         <fieldset id="personal">
@@ -146,11 +147,11 @@
             <select id="typeWood" name="typeWood"><option value="Mahogany">Mahogany</option></select>
             <p class="size">
                 <label>Size:</label>
-                <input id="king" type="radio" name="king">King</input>
-                <input id="queen" type="radio" name="queen">Queen</input> 
+                <input id="king" type="radio" name="size">King</input>
+                <input id="queen" type="radio" name="size">Queen</input> 
                 <br />
-                <input id="twin" type="radio" name="twin">Twin</input>
-                <input id="single" type="radio" name="single">Single</input>
+                <input id="twin" type="radio" name="size">Twin</input>
+                <input id="single" type="radio" name="size">Single</input>
             </p>
             <p class="extras">
                 <label>Extra:</label>
