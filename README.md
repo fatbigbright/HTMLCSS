@@ -2,6 +2,7 @@
 
 ##0. HTMLExercises
     Keep writing every day, no matter how it is simple.
+    Migrate to a new repository: https://github.com/fatbigbright/HTMLExercises, it will not update under this repository.
 
 ##1. 3DButtons
     Buttons with 3D effect by using ul>li.
